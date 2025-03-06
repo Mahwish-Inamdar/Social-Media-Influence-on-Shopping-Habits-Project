@@ -13,6 +13,4 @@ This repository contains SQL queries to analyze survey data on how different soc
 4. **Influence Data by Segment Type (Heatmap Table Data)**  
    - Provides a detailed breakdown of social media influence based on segment type.
 
-## 📝 Notes:
-- Replace `survey_data` with your actual table name.
-- Ensure your dataset follows the correct schema for these queries to work properly.
+
